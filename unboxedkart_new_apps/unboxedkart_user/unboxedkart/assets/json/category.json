@@ -1,0 +1,264 @@
+{
+  "mobile-phone": {
+    "brands": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Huawei",
+        "imageUrl": "assets/images/brand_logos/huawei.webp",
+        "slug": "huawei"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "conditions": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  },
+  "laptop": {
+    "brands": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Dell",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      }
+    ],
+    "conditions": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  },
+  "earphones": {
+    "brands": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Dell",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      }
+    ],
+    "conditions": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  },
+  "tablet": {
+    "brands": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Dell",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      }
+    ],
+    "conditions": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  },
+  "speaker": {
+    "brands": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Dell",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      }
+    ],
+    "conditions": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  },
+  "watch": {
+    "brands": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Dell",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      }
+    ],
+    "conditions": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  },
+  "accessories": {
+    "brands": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Dell",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      }
+    ],
+    "conditions": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  }
+}

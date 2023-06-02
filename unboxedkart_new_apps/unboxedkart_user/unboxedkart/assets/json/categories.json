@@ -1,0 +1,169 @@
+{
+  "brand": {
+    "apple": [
+      {
+        "categoryName": "iPhone",
+        "imageUrl": "assets/images/categories/phone.webp",
+        "slug": "mobile-phone"
+      },
+      {
+        "categoryName": "Macbook",
+        "imageUrl": "assets/images/categories/laptop.webp",
+        "slug": "laptop"
+      },
+      {
+        "categoryName": "Airpods",
+        "imageUrl": "assets/images/categories/earphones.webp",
+        "slug": "earphones"
+      },
+      {
+        "categoryName": "iPad",
+        "imageUrl": "assets/images/categories/tablet.webp",
+        "slug": "tablet"
+      },
+      {
+        "categoryName": "HomePod",
+        "imageUrl": "assets/images/categories/speaker.webp",
+        "slug": "speaker"
+      },
+      {
+        "categoryName": "Accesories",
+        "imageUrl": "assets/images/categories/accessory.webp",
+        "slug": "accessory"
+      }
+    ],
+    "samsung": [],
+    "huawei": [],
+    "oneplus": []
+  },
+  "condition": {
+    "unboxed": [
+      {
+        "categoryName": "Phone",
+        "imageUrl": "assets/images/categories/phone.webp",
+        "slug": "mobile-phone"
+      },
+      {
+        "categoryName": "Laptop",
+        "imageUrl": "assets/images/categories/laptop.webp",
+        "slug": "laptop"
+      },
+      {
+        "categoryName": "Earphones",
+        "imageUrl": "assets/images/categories/earphones.webp",
+        "slug": "earphones"
+      },
+      {
+        "categoryName": "Tablet",
+        "imageUrl": "assets/images/categories/tablet.webp",
+        "slug": "tablet"
+      },
+      {
+        "categoryName": "Speakers",
+        "imageUrl": "assets/images/categories/speaker.webp",
+        "slug": "speaker"
+      },
+      {
+        "categoryName": "Accesories",
+        "imageUrl": "assets/images/categories/accessory.webp",
+        "slug": "accessory"
+      }
+    ],
+    "grade-a": [
+      {
+        "categoryName": "Phone",
+        "imageUrl": "assets/images/categories/phone.webp",
+        "slug": "mobile-phone"
+      },
+      {
+        "categoryName": "Laptop",
+        "imageUrl": "assets/images/categories/laptop.webp",
+        "slug": "laptop"
+      },
+      {
+        "categoryName": "Earphones",
+        "imageUrl": "assets/images/categories/earphones.webp",
+        "slug": "earphones"
+      },
+      {
+        "categoryName": "Tablet",
+        "imageUrl": "assets/images/categories/tablet.webp",
+        "slug": "tablet"
+      },
+      {
+        "categoryName": "Speakers",
+        "imageUrl": "assets/images/categories/speaker.webp",
+        "slug": "speaker"
+      },
+      {
+        "categoryName": "Accesories",
+        "imageUrl": "assets/images/categories/accessory.webp",
+        "slug": "accessory"
+      }
+    ],
+    "grade-b": [
+      {
+        "categoryName": "Phone",
+        "imageUrl": "assets/images/categories/phone.webp",
+        "slug": "mobile-phone"
+      },
+      {
+        "categoryName": "Laptop",
+        "imageUrl": "assets/images/categories/laptop.webp",
+        "slug": "laptop"
+      },
+      {
+        "categoryName": "Earphones",
+        "imageUrl": "assets/images/categories/earphones.webp",
+        "slug": "earphones"
+      },
+      {
+        "categoryName": "Tablet",
+        "imageUrl": "assets/images/categories/tablet.webp",
+        "slug": "tablet"
+      },
+      {
+        "categoryName": "Speakers",
+        "imageUrl": "assets/images/categories/speaker.webp",
+        "slug": "speaker"
+      },
+      {
+        "categoryName": "Accesories",
+        "imageUrl": "assets/images/categories/accessory.webp",
+        "slug": "accessory"
+      }
+    ],
+    "grade-c": [
+      {
+        "categoryName": "Phone",
+        "imageUrl": "assets/images/categories/phone.webp",
+        "slug": "mobile-phone"
+      },
+      {
+        "categoryName": "Laptop",
+        "imageUrl": "assets/images/categories/laptop.webp",
+        "slug": "laptop"
+      },
+      {
+        "categoryName": "Earphones",
+        "imageUrl": "assets/images/categories/earphones.webp",
+        "slug": "earphones"
+      },
+      {
+        "categoryName": "Tablet",
+        "imageUrl": "assets/images/categories/tablet.webp",
+        "slug": "tablet"
+      },
+      {
+        "categoryName": "Speakers",
+        "imageUrl": "assets/images/categories/speaker.webp",
+        "slug": "speaker"
+      },
+      {
+        "categoryName": "Accesories",
+        "imageUrl": "assets/images/categories/accessory.webp",
+        "slug": "accessory"
+      }
+    ]
+  }
+}

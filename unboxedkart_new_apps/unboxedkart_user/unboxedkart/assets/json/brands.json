@@ -1,0 +1,226 @@
+{
+  "category": {
+    "mobile-phone": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Huawei",
+        "imageUrl": "assets/images/brand_logos/huawei.webp",
+        "slug": "huawei"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "laptop": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Huawei",
+        "imageUrl": "assets/images/brand_logos/huawei.webp",
+        "slug": "huawei"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "earphones": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Huawei",
+        "imageUrl": "assets/images/brand_logos/huawei.webp",
+        "slug": "huawei"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "watch": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Huawei",
+        "imageUrl": "assets/images/brand_logos/huawei.webp",
+        "slug": "huawei"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "accessories": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Huawei",
+        "imageUrl": "assets/images/brand_logos/huawei.webp",
+        "slug": "huawei"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "speaker": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Huawei",
+        "imageUrl": "assets/images/brand_logos/huawei.webp",
+        "slug": "huawei"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ]
+  },
+  "condition": {
+    "unboxed": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Huawei",
+        "imageUrl": "assets/images/brand_logos/huawei.webp",
+        "slug": "huawei"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "grade-a": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Huawei",
+        "imageUrl": "assets/images/brand_logos/huawei.webp",
+        "slug": "huawei"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "grade-b": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Huawei",
+        "imageUrl": "assets/images/brand_logos/huawei.webp",
+        "slug": "huawei"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "grade-c": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Huawei",
+        "imageUrl": "assets/images/brand_logos/huawei.webp",
+        "slug": "huawei"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ]
+  }
+}

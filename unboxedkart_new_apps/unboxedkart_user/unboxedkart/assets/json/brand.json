@@ -1,0 +1,161 @@
+{
+  "apple": {
+    "categories": [
+      {
+        "categoryName": "iPhone",
+        "imageUrl": "assets/images/categories/apple/mobile-phone.webp",
+        "slug": "mobile-phone"
+      },
+      {
+        "categoryName": "Macbook",
+        "imageUrl": "assets/images/categories/apple/laptop.webp", 
+        "slug": "laptop"
+      },
+      {
+        "categoryName": "Airpods",
+        "imageUrl": "assets/images/categories/apple/earphones.webp",
+        "slug": "earphones"
+      },
+      {
+        "categoryName": "iPad",
+        "imageUrl": "assets/images/categories/apple/tablet.webp",
+        "slug": "tablet"
+      },
+      {
+        "categoryName": "HomePod",
+        "imageUrl": "assets/images/categories/apple/speaker.webp",
+        "slug": "speaker"
+      },
+      {
+        "categoryName": "Accesories",
+        "imageUrl": "assets/images/categories/apple/accessories.webp",
+        "slug": "accessory"
+      }
+    ],
+    "conditions": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  },
+  "samsung": {
+    "categories": [
+      {
+        "categoryName": "Mobile phone",
+        "imageUrl": "assets/images/categories/samsung/mobile-phone.webp",
+        "slug": "mobile-phone"
+      },
+      {
+        "categoryName": "Watch",
+        "imageUrl": "assets/images/categories/samsung/watch.webp",
+        "slug": "laptop"
+      },
+      {
+        "categoryName": "Earphones",
+        "imageUrl": "assets/images/categories/samsung/earphones.webp",
+        "slug": "earphones"
+      }
+    ],
+    "conditions": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  },
+  "oneplus": {
+    "categories": [
+      {
+        "categoryName": "Mobile phone",
+        "imageUrl": "assets/images/categories/oneplus/mobile-phone.webp",
+        "slug": "mobile-phone"
+      }
+    ],
+    "conditions": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  },
+  "huawei": {
+    "categories": [
+      {
+        "categoryName": "Mobile phone",
+        "imageUrl": "assets/images/categories/google/mobile-phone.webp",
+        "slug": "mobile-phone"
+      }
+    ],
+    "conditions": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  }
+}

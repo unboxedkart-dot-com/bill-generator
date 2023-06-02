@@ -1,0 +1,228 @@
+{
+  "brand": {
+    "apple": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ],
+
+    "samsung": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ],
+    "huawei": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ],
+    "oneplus": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  },
+  "category": {
+    "mobile-phone": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ],
+
+    "laptop": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ],
+    "earphones": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ],
+    "speaker": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ],
+    "tablet": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ],
+    "accessory": [
+      {
+        "conditionName": "Unboxed",
+        "imageUrl": "assets/images/conditions/unboxed.webp",
+        "slug": "unboxed"
+      },
+      {
+        "conditionName": "Grade-a",
+        "imageUrl": "assets/images/conditions/grade-a.webp",
+        "slug": "grade-a"
+      },
+      {
+        "conditionName": "Grade-b",
+        "imageUrl": "assets/images/conditions/grade-b.webp",
+        "slug": "grade-b"
+      },
+      {
+        "conditionName": "Grade-c",
+        "imageUrl": "assets/images/conditions/grade-c.webp",
+        "slug": "grade-c"
+      }
+    ]
+  }
+}

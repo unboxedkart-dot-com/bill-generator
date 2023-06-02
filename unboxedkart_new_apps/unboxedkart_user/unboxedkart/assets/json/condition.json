@@ -1,0 +1,226 @@
+{
+  "unboxed": {
+    "brands": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp", 
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Google",
+        "imageUrl": "assets/images/brand_logos/google.webp",
+        "slug": "google"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "categories": [
+      {
+        "categoryName": "Phone",
+        "imageUrl": "assets/images/categories/apple/mobile-phone.webp",
+        "slug": "mobile-phone"
+      },
+      {
+        "categoryName": "Laptop",
+        "imageUrl": "assets/images/categories/apple/laptop.webp",
+        "slug": "laptop"
+      },
+      {
+        "categoryName": "Earphones",
+        "imageUrl": "assets/images/categories/apple/earphones.webp",
+        "slug": "earphones"
+      },
+      {
+        "categoryName": "Tablet",
+        "imageUrl": "assets/images/categories/apple/tablet.webp",
+        "slug": "tablet"
+      },
+      {
+        "categoryName": "Speakers",
+        "imageUrl": "assets/images/categories/apple/speaker.webp",
+        "slug": "speaker"
+      },
+      {
+        "categoryName": "Accesories",
+        "imageUrl": "assets/images/categories/apple/accessories.webp",
+        "slug": "accessories"
+      }
+    ]
+  },
+  "grade-a": {
+    "brands": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Google",
+        "imageUrl": "assets/images/brand_logos/google.webp",
+        "slug": "google"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "categories": [
+      {
+        "categoryName": "Phone",
+        "imageUrl": "assets/images/categories/apple/mobile-phone.webp",
+        "slug": "mobile-phone"
+      },
+      {
+        "categoryName": "Laptop",
+        "imageUrl": "assets/images/categories/apple/laptop.webp",
+        "slug": "laptop"
+      },
+      {
+        "categoryName": "Earphones",
+        "imageUrl": "assets/images/categories/apple/earphones.webp",
+        "slug": "earphones"
+      },
+      {
+        "categoryName": "Tablet",
+        "imageUrl": "assets/images/categories/apple/tablet.webp",
+        "slug": "tablet"
+      },
+      {
+        "categoryName": "Speakers",
+        "imageUrl": "assets/images/categories/apple/speaker.webp",
+        "slug": "speaker"
+      },
+      {
+        "categoryName": "Accesories",
+        "imageUrl": "assets/images/categories/apple/accessories.webp",
+        "slug": "accessories"
+      }
+    ]
+  },
+  "grade-b": {
+    "brands": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Google",
+        "imageUrl": "assets/images/brand_logos/google.webp",
+        "slug": "google"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "categories": [
+      {
+        "categoryName": "Phone",
+        "imageUrl": "assets/images/categories/apple/mobile-phone.webp",
+        "slug": "mobile-phone"
+      },
+      {
+        "categoryName": "Laptop",
+        "imageUrl": "assets/images/categories/apple/laptop.webp",
+        "slug": "laptop"
+      },
+      {
+        "categoryName": "Earphones",
+        "imageUrl": "assets/images/categories/apple/earphones.webp",
+        "slug": "earphones"
+      },
+      {
+        "categoryName": "Tablet",
+        "imageUrl": "assets/images/categories/apple/tablet.webp",
+        "slug": "tablet"
+      },
+      {
+        "categoryName": "Speakers",
+        "imageUrl": "assets/images/categories/apple/speaker.webp",
+        "slug": "speaker"
+      },
+      {
+        "categoryName": "Accesories",
+        "imageUrl": "assets/images/categories/apple/accessories.webp",
+        "slug": "accessories"
+      }
+    ]
+  },
+  "grade-c": {
+    "brands": [
+      {
+        "brandName": "Apple",
+        "imageUrl": "assets/images/brand_logos/apple.webp",
+        "slug": "apple"
+      },
+      {
+        "brandName": "Samsung",
+        "imageUrl": "assets/images/brand_logos/samsung.webp",
+        "slug": "samsung"
+      },
+      {
+        "brandName": "Google",
+        "imageUrl": "assets/images/brand_logos/google.webp",
+        "slug": "google"
+      },
+      {
+        "brandName": "Oneplus",
+        "imageUrl": "assets/images/brand_logos/oneplus.webp",
+        "slug": "oneplus"
+      }
+    ],
+    "categories": [
+      {
+        "categoryName": "Phone",
+        "imageUrl": "assets/images/categories/apple/mobile-phone.webp",
+        "slug": "mobile-phone"
+      },
+      {
+        "categoryName": "Laptop",
+        "imageUrl": "assets/images/categories/apple/laptop.webp",
+        "slug": "laptop"
+      },
+      {
+        "categoryName": "Earphones",
+        "imageUrl": "assets/images/categories/apple/earphones.webp",
+        "slug": "earphones"
+      },
+      {
+        "categoryName": "Tablet",
+        "imageUrl": "assets/images/categories/apple/tablet.webp",
+        "slug": "tablet"
+      },
+      {
+        "categoryName": "Speakers",
+        "imageUrl": "assets/images/categories/apple/speaker.webp",
+        "slug": "speaker"
+      },
+      {
+        "categoryName": "Accesories",
+        "imageUrl": "assets/images/categories/apple/accessories.webp",
+        "slug": "accessories"
+      }
+    ]
+  }
+}
