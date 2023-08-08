@@ -1,0 +1,27 @@
+.daily-helper {
+  &.V1, &.V2, &.V3 {
+    width: 500px;
+    height: 100%;
+    border: 1px solid #f5f7f7 !important;
+    -webkit-print-color-adjust: exact;
+    padding: 50px;
+    min-height: 500px;
+    position: relative;
+  }
+
+  .text {
+    font-size: 16px;
+    font-weight: 500;
+    color: #000;
+    font-family: "Noto Sans", sans-serif;
+    line-height: 1.7;
+    margin-bottom: 0;
+    margin-top: 0;
+    letter-spacing: 0.5px;
+  }
+
+  .stamp {
+    width: 70px;
+    height: auto;
+  }
+}
